@@ -17,10 +17,7 @@ The RFID Based Attendance System using LPC1768 ARM Cortex-M3 is an embedded syst
 -> Display system output via QCOM serial communication
 
 # 🛠️ Hardware Components
-![MFRC522](https://github.com/user-attachments/assets/db369a04-56af-4eb0-b8a9-d3a014a0dc8b)
-
-![Rfid-Card-Tags](https://github.com/user-attachments/assets/1fbe8839-385e-4ebc-82ae-0b120f736df8)
-
+<img width="284" height="180" alt="image" src="https://github.com/user-attachments/assets/05c9e0e4-4e01-4f09-85a3-3a068a6838ad" />
 
 -> LPC1768 ARM Cortex-M3 Microcontroller
 
@@ -85,8 +82,11 @@ QCOM Output:
 ## 📊 Results
 # ✅ Observed Output (QCOM Only)
 -> Attendance recorded only for valid users
+
 -> Time-based restriction working accurately
+
 -> Unauthorized cards completely blocked
+
 -> No duplicate or invalid entries allowed
 
 https://github.com/user-attachments/assets/b7f3e2c2-2e88-402d-bfea-320c93d17617
