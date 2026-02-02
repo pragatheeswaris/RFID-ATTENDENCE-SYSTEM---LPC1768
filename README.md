@@ -7,33 +7,49 @@ The RFID Based Attendance System using LPC1768 ARM Cortex-M3 is an embedded syst
 
 # 🎯 Objectives
 -> Automate attendance using RFID technology
+
 -> Allow attendance only for registered users
+
 -> Restrict attendance to a specific allowed time window
+
 -> Prevent unauthorized or late attendance entries
+
 -> Display system output via QCOM serial communication
 
 # 🛠️ Hardware Components
-![MFRC522](https://github.com/user-attachments/assets/d6fecb33-891c-49af-b473-c0fdff2157f0)
-![Rfid-Card-Tags](https://github.com/user-attachments/assets/93cb23ed-4cbb-4afb-9f2b-41c3b91af79c)
+![MFRC522](https://github.com/user-attachments/assets/db369a04-56af-4eb0-b8a9-d3a014a0dc8b)
+
+![Rfid-Card-Tags](https://github.com/user-attachments/assets/1fbe8839-385e-4ebc-82ae-0b120f736df8)
+
 
 -> LPC1768 ARM Cortex-M3 Microcontroller
+
 -> RFID Reader Module
+
 -> RFID Cards/Tags
+
 -> Power Supply
+
 -> USB-to-Serial (for QCOM monitoring)
+
 -> Connecting Wires
 
 # 💻 Software Tools
 
 -> Embedded C
+
 -> Keil µVision IDE
+
 -> Flash Magic
+
 -> QCOM Serial Monitor
 
 # ⚙️ System Working Principle
 
 -> The RFID reader scans the RFID card.
+
 -> The card’s unique ID is sent to the LPC1768 microcontroller.
+
 -> The controller verifies:
 
   -> Whether the card is registered
