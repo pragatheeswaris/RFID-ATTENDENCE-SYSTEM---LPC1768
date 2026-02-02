@@ -1,4 +1,6 @@
-##RFID-ATTENDENCE-SYSTEM---LPC1768
+## RFID-ATTENDENCE-SYSTEM---LPC1768
+<img width="980" height="540" alt="image" src="https://github.com/user-attachments/assets/e9d4da16-0067-48cb-b40e-871eaaf91eac" />
+
 📌 RFID Based Attendance System Using LPC1768 (ARM Cortex-M3)
 📝 Project Overview
 
